@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **ysangam1614@gmail.com**
 
